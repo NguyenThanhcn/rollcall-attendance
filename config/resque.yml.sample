@@ -1,0 +1,15 @@
+default:
+  username: admin
+  password: changeme
+
+development:
+  username: admin
+  password: changeme
+
+test:
+  username: admin
+  password: changeme
+
+production:
+  username: admin
+  password: changeme
